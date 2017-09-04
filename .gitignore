@@ -1,0 +1,5 @@
+target
+project/target
+.idea
+src/main/resources/pagecounts-20151201-220000
+src/main/resources/output.txt
